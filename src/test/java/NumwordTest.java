@@ -16,4 +16,11 @@ public class NumwordTest {
 
         assertEquals(false, newNumword.checkInt("kitten"));
     }
+
+    @Test
+    public void numToWord_getOnesDigit_true() {
+        Numword newNumword = new Numword();
+
+        assertEquals("two", newNumword.numToWord("2"));
+    }
 }
