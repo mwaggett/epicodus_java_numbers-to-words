@@ -1,4 +1,4 @@
-# Numbers to Words **UNFINISHED**
+# Numbers to Words ~UNFINISHED~
 
 ##### _Behavior-Driven Development practice for Epicodus, 11 August 2015_
 
